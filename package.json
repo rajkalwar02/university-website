@@ -1,0 +1,14 @@
+{
+  "name": "university-website",
+  "version": "1.0.0",
+  "description": "This is a landing page for kiit university website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raj Kalwar",
+  "license": "ISC",
+  "dependencies": {
+    "emailjs": "^4.0.1"
+  }
+}
